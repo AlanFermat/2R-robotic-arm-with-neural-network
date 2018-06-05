@@ -6,7 +6,9 @@ The general idea is to use a two layer perception neural network to solve for th
 
 *********************** Construction of Neural Network **********************
 
-The structure of the neural network: 
+Multi-layer Perceptrons
+
+The topology of the neural network: 
 
     n+1 ----> n/2+1 ----> n/2+1 ---- n
     
@@ -18,7 +20,7 @@ Learning rule:
 Transfer function:
     tanh
     
-Other parameters can be seem in the function neuralNetwork.m
+Other parameters such as convergence criteria and error function can be seen in the function neuralNetwork.m
 
 ************************** Files and Instructions ***************************
 
