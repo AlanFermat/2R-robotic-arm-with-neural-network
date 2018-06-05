@@ -77,3 +77,12 @@ method.
 
 The neural network file in neuralNetwork.m can be generalized and applied to other
 areas such as image compression, classification and so on. 
+
+############ FEEDBACK ##############
+
+Do you like this project? Support us by donating:
+
+Bitcoin: 3DNQ8VonSR3C6c3GeRS9jxfFDyJ2rH2r1e
+Litecoin: LXQAY5BDZfa4UMk3xnH6sEzWd3kTtzm9AS
+
+
