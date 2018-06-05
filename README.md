@@ -73,3 +73,7 @@ used for computing the derications of equations for kinematics. The function dyn
 calls dynamics_lagrangian.m to compute the equations of robot dynamics using lagrangian
 method.
 	
+************ Note *******************
+
+The neural network file in neuralNetwork.m can be generalized and applied to other
+areas such as image compression, classification and so on. 
